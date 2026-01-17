@@ -1,7 +1,6 @@
 # Postfixadmin-to-Mailcow-Migrator
 
 Easily migrate your PostfixAdmin configuration and mail data to Mailcow with minimal hassle.
-
 This project was created because transitioning to Mailcow was significantly simpler than trying to keep PostfixAdmin configurations working with the major changes in Debian 12/13 and modern Dovecot versions. These scripts automate the migration process, saving you hours of manual work.
 
 ##  Features
